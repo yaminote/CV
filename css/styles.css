@@ -1,0 +1,210 @@
+body
+{
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Grape Nuts', cursive;
+}
+h1
+{
+  font-size: 90px;
+  margin-top: 50 auto 0 auto;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h2
+{
+  font-size: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3
+{
+  color: #40514E;
+
+}
+h4
+{
+  color: #40514E;
+
+}
+.a
+{
+  padding-top: 100px;
+
+  background-color: #00FFC6;
+
+
+}
+.love
+{
+
+  text-decoration: underline;
+}
+.middle-container
+{
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+.bottom-container
+{
+ background-color: #66BFBF;
+ padding: 50px 0 20px;
+}
+.skill-row
+{
+  width:50%;
+  margin: auto;
+  margin-top:100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+p{
+    line-height: 2;
+}
+.topC
+{
+  position:relative;
+  left: 300px;
+
+}
+.bottomC
+{
+  position: absolute;
+  left:300px;
+  top:500px;
+}
+.webd
+{
+  width:50%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.cp
+{
+  width:35%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+.dsa
+{
+  width:30%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+.Java
+{
+  width:30%;
+  border-radius: 100;
+  float: right;
+  margin-left: 30px;
+}
+.SQL
+{
+
+  width: 35%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+.chess
+{
+  position: relative;
+  width: 10%;
+  border-radius: 50%;
+  display: inline-block;
+  right: 20px;
+}
+.manga
+{
+  position: relative;
+  width: 12%;
+  border-radius: 50%;
+  display: inline-block;
+  left: 20px;
+}
+.Achievements
+{
+  width:20%;
+  border-radius: 100%;
+ margin: 10px 0;
+
+}
+.Education
+{
+  width:20%;
+  border-radius: 100%;
+ margin: 10px 0;
+}
+
+.Anubhav
+{
+  border-radius: 100%;
+
+}
+.intro
+{
+  width:55%;
+  margin:auto;
+  font-size: 18px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:10%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.contact-me
+{
+  width:40%;
+  margin: 40px auto 60px;
+}
+.Hobbies
+{
+  font-size: 20px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+.copyright
+{
+  color: #eaf6f6;
+  padding: 20px 0;
+}
